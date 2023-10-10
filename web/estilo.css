@@ -5,7 +5,7 @@ html {
   body {
     margin: 0;
   }
-  article, aside, footer, header {
+  article, aside, footer, header, header2 {
     padding: 0.5rem;
     box-sizing: border-box;
   }
@@ -37,7 +37,7 @@ html {
     flex: auto;
     text-align: center;
     background: white;
-    color: black;
+    color: rgb(255, 255, 255);
     font-family: "Lucida Console", "Courier New", monospace;
     font-style:inherit;
     margin: 0 5px;
@@ -81,3 +81,4 @@ html {
         text-align:center;
     }
 }
+
